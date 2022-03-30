@@ -1,0 +1,30 @@
+:root{
+    --bright-orange: hsl(31, 77%, 52%);
+    --dark-cyan: hsl(184, 100%, 22%);
+    --very-dark-cyan: hsl(179, 100%, 13%);
+
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body,
+button {
+    font-family: "Lexend Deca", sans-serif;
+}
+h3{
+    font-family: "Big Shoulders Display", sans-serif;
+    text-transform: uppercase;
+}
+p{
+    font-size: 15px;   
+}
+.container card-bright-orange{
+    background-color: red;
+    col
+}
+
+.dark-cyan{
+    background-color: var(--dark-cyan);
+}
